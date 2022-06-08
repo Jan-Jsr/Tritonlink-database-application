@@ -6,4 +6,4 @@
 
 2.Download the database and connect to it using postgre.
 
-2.Run codes on apache-tomcat server, you should see the page on your web browser.
+2.Run index.html on apache-tomcat server, you should see the page on your web browser.
